@@ -1,0 +1,10 @@
+{
+	"name": "AzureDataLakeStoragelinkedService",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://stretailmeddev123.dfs.core.windows.net/"
+		}
+	}
+}
